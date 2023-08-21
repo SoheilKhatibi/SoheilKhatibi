@@ -7,6 +7,8 @@
 
 I am deeply interested in Artificial Intelligence, Machine Learning, Robotics, and especially, Reinforcement Learning.
 
+![Soheil's GitHub stats](https://github-readme-stats.vercel.app/api?username=soheilkhatibi&show_icons=true&bg_color=00000000)
+
 
 <!--
 **SoheilKhatibi/soheilkhatibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
