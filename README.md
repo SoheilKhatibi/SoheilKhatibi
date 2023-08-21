@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, I am Soheil Khatibi 👋
+
+I am deeply interested in Artificial Intelligence, Machine Learning, Robotics, and especially, Reinforcement Learning.
+
 
 <!--
-**SoheilKhatibi/SoheilKhatibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SoheilKhatibi/soheilkhatibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
