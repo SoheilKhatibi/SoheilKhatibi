@@ -3,7 +3,7 @@
 <!--
 <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 -->
-<a href="[URL_REDIRECT](https://soheilkhatibi.github.io/)" target="blank"><img align="center" src="https://github.com/SoheilKhatibi/SoheilKhatibi/blob/main/images/Soheil_Khatibi.jpg" height="100" /></a>
+<a href="https://soheilkhatibi.github.io/" target="blank"><img align="center" src="https://github.com/SoheilKhatibi/SoheilKhatibi/blob/main/images/Soheil_Khatibi.jpg" height="100" /></a>
 
 I am deeply interested in Artificial Intelligence, Machine Learning, Robotics, and especially, Reinforcement Learning.
 
