@@ -18,7 +18,7 @@ I am deeply interested in:
 I possess a diverse set of computer skills that enable me to tackle a wide range of projects and challenges. 
 
 ## Programming Languages
-I am proficient in several programming languages, including C++, C, Python, Java, Lua, and MatLab. These languages allow me to approach problems from different angles and choose the most suitable one for a given task. Python, with its simplicity and extensive libraries, is my go-to language for various applications, from web development to data analysis and machine learning. Meanwhile, C++,C, and Java provide me with the power and efficiency needed for system-level programming and application development, while Lua and MatLab help me excel in specialized domains.
+I am proficient in several programming languages, including C++, C, Python, Java, Lua, and MatLab. These languages allow me to approach problems from different angles and choose the most suitable one for a given task. Python, with its simplicity and extensive libraries, is my go-to language for various applications, from web development to data analysis and machine learning. Meanwhile, C++, C, and Java provide me with the power and efficiency needed for system-level programming and application development, while Lua and MatLab help me excel in specialized domains.
 
 ## Libraries and Frameworks
 In the domain of libraries and frameworks, I have expertise in several essential tools:
