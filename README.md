@@ -5,6 +5,16 @@
 -->
 <a href="https://soheilkhatibi.github.io/" target="blank"><img align="center" src="https://github.com/SoheilKhatibi/SoheilKhatibi/blob/main/images/Soheil_Khatibi.jpg" /></a>
 
+# Table Of Contents
+- [Table Of Contents](#table-of-contents)
+- [Research Interests](#research-interests)
+- [Computer Skills](#computer-skills)
+  - [Programming Languages](#programming-languages)
+  - [Libraries and Frameworks](#libraries-and-frameworks)
+  - [Robotics and Simulation](#robotics-and-simulation)
+  - [Document Typesetting](#document-typesetting)
+
+
 # Research Interests
 
 I am deeply interested in:
